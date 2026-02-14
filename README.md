@@ -1,19 +1,17 @@
-# Python Practice Repository 🐍
+# Python Learning Journey 🚀
 
-Hi, I'm Syed Moinuddin, a Computer Science student learning Python and software development.
+This repository contains my daily Python practice and mini projects.
 
-## 📚 What’s inside
-- Basics: variables, conditions, loops, functions
-- Mini projects
-- Practice programs
+## Topics Covered
+- Input / Output
+- If-Else
+- Loops
+- Functions
+- Lists
+- Dictionaries
 
-## 🎯 Goals
-- Become a software engineer
-- Build real projects
-- Improve problem-solving skills
+## Mini Projects
+- Number Guessing Game
+- CLI Calculator
 
-## 🛠 Tech Stack
-- Python
-
-Consistency > Motivation 🚀
-
+More coming soon...
